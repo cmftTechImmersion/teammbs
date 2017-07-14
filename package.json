@@ -1,0 +1,16 @@
+{
+  "name": "teammbs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Team MBS",
+  "author": "Team MBS",
+  "license": "Fannie",
+  "dependencies": {
+    "express": "4.12.3",
+    "morgan": "1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmftTechImmersion/tech2.git"
+  }
+}
